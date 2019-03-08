@@ -1,0 +1,34 @@
+
+
+
+FAQ & How to contact us
+
+1. Bandwidth Mbps and actual download Mb/s conversion?
+What should be noted here is the writing unit of the transmission unit. The definition of the two is different. 
+The subscription bandwidth of the user and the telecommunications is Mbit/second, and the statistical unit we see when downloading is Mb; 
+The conversion relationship is: 1MB = 8Mbps; the contracted bandwidth is 10M, and the maximum downloadable file is 1.25MB per second.
+
+2. What should I pay attention to when measuring speed?
+Before measuring the speed, you should first solve the problem in the network environment speed measurement, 
+such as closing some programs that will occupy bandwidth, not sharing bandwidth in the LAN, and testing with wired network cards. 
+This can ensure the local speed measurement environment is clean and ensure the test speed is accurate; 
+do not close the speed measurement client or browser midway, wait patiently for the test to be completed; 
+to further improve the accuracy of the test results, it is recommended to test several times in different time periods.
+
+3. Why are the test results different at different times?
+Since the Internet is an open network, the network may be different due to the number of users in different time periods. 
+The fluctuation of the network speed is normal. 
+It is recommended that you test the network several times during the non-busy time period. 
+Assess your network quality and the results will be more accurate.
+
+4. The test results are up to standard, but still feel that the network speed is slow?
+There are many factors that affect the quality of the network, including the line, the user's computer, 
+the use environment and user maintenance, as well as what operating system the user installs, 
+which applications are installed, and whether the user is using it correctly or not. 
+It is recommended that you test more times during non-peak hours of the network, 
+or select other speed measuring tools on the market for comparative testing to comprehensively assess your network quality. 
+If all kinds of testing tools have no problem with your network speed, 
+then you may want to consider replacing a higher bandwidth broadband product.
+
+If you need more informations or have any more questions.
+Please contact us: naoyuupc5@163.com
